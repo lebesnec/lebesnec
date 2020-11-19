@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently working at [Thales](https://www.thalesgroup.com/) for [Electricité de France](https://www.edf.fr/)
+
 🌱 I’m currently learning Angular & Symfony
+
 💬 Ask me about [moutains & landscape photography](https://www.instagram.com/christophe.lebesnerais/) 📷
+
 📫 How to reach me: christophe.lebesnerais+github @ gmail.com
 
 <!--
