@@ -6,7 +6,7 @@
 
 💬 Ask me about [moutains & landscape photography](https://www.instagram.com/christophe.lebesnerais/) 📷
 
-📫 How to reach me: christophe.lebesnerais+github @ gmail.com
+📫 How to reach me: christophe.lebesnerais+github at gmail dot com
 
 <!--
 **lebesnec/lebesnec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
