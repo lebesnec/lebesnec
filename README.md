@@ -1,12 +1,16 @@
-### Hi there 👋
+### Hello 👋
 
-🔭 I’m currently working at [Thales](https://www.thalesgroup.com/) for [Electricité de France](https://www.edf.fr/)
+🚧 I’m currently working at [Thales](https://www.thalesgroup.com/) for [Electricité de France](https://www.edf.fr/)
 
 🌱 I’m currently learning Angular & Symfony
 
-💬 Ask me about [moutains & landscape photography](https://www.instagram.com/christophe.lebesnerais/) 📷
+💬 [StackOverflow](http://stackoverflow.com/users/990193/christophe)
 
-📫 How to reach me: christophe.lebesnerais+github at gmail dot com
+📷 [Instagram](https://www.instagram.com/christophe.lebesnerais/) 
+
+🕊 [Twitter](https://twitter.com/christophe_lb)
+
+✉ Email: christophe.lebesnerais+github at gmail dot com
 
 <!--
 **lebesnec/lebesnec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
