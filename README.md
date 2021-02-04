@@ -2,8 +2,6 @@
 
 🚧 I’m currently working at [Thales](https://www.thalesgroup.com/) for [Electricité de France](https://www.edf.fr/)
 
-🌱 I’m currently learning Angular & Symfony
-
 💬 [StackOverflow](http://stackoverflow.com/users/990193/christophe)
 
 📷 [Instagram](https://www.instagram.com/christophe.lebesnerais/) 
